@@ -5,4 +5,5 @@ public class HelloGitHub {
     public void print(){
         System.out.println("second text");
     }
+    //comment
 }
